@@ -1,2 +1,2 @@
 # course-test
-test repo for courseera
+test repositories for courseera(Angular-js)
